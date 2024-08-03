@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderAswin123
 - 👀 I’m interested in Competitive programming
-- 🌱 I’m currently learning Stl and data structures 
-- 
+- 🌱 i'm interested in machine learning , AI , deep reinforcement learning.
+- i love doing projects on Reinforcement learning.
 
 <!---
 coderAswin123/coderAswin123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
