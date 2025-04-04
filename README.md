@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @coderAswin123
-- 👀 I’m interested in Competitive programming
-- 🌱 i'm interested in machine learning , AI , deep reinforcement learning.
+- 👀 My interests lies in Competitive programming, machine learning , AI , deep reinforcement learning.
 - i love doing projects on Reinforcement learning.
 
 <!---
